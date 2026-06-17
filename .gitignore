@@ -1,0 +1,20 @@
+# Binários gerados
+/mac-limpo
+
+# Arquivos do sistema macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Arquivos temporários e compilações Go
+*.out
+*.test
+*.prof
+/vendor/
+/cinder
